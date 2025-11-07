@@ -49,3 +49,10 @@ Sales activity peaked during **festive and holiday seasons, particularly in the 
 
 Most customers tended to make **moderate purchases (2–3 items per transaction)**, suggesting a balance between affordability and product need. Overall, the findings highlight how demographics, product pricing, and seasonality collectively shape purchasing behavior. These insights can guide the business in improving marketing precision, enhancing inventory control
 ,Optimizing pricing strategies, increasing profitability and sales predictability.
+
+
+## Author
+**Jessica Dalhatu**  
+Aspiring Data Analyst | Excel Enthusiast | Storyteller through Data  
+
+[Email] *[Jessicadalhatu4@gmail.com] *
