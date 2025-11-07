@@ -35,15 +35,17 @@ Key columns include:
   - Charts and graphs for visualization 
 
 ##  Key Insights
-- **Age and Gender Trends: ** Age played significant roles in shaping purchasing decisions, with certain the Youth, Adults and Seniors showing stronger preferences for Beauty, Clothing and electronic products respectively. Gender had a minute effect on purchasing decisions as both male and female customers purchased more of clothing products.
-- **Seasonal Sales Patterns: ** Sales volumes peaked during festive or holiday seasons in the last quarter of the year, reflecting clear seasonal buying behavior.  
-- **Top Product Categories: ** Electronic products consistently outperformed beauty and clothing products in terms of total sales.  
-- **Spending Relationships: ** There was a noticeable relationship between customer age, spending levels, and product preferences.  Adults preferred to purchase clothing products, Seniors preferred electronics and the youth preferred spending on beauty products.
-- ** Purchasing behaviors: There was a consistent pattern of purchasing behavior among the customers as a majority of them preferred moderate purchases (2-3 items at most).
--** Distribution of product prices: In terms of cost, Electronics are the highest priced products, followed by clothing and beauty products.
+- Age and Gender Trends: Age played significant roles in shaping purchasing decisions, with certain the Youth, Adults and Seniors showing stronger preferences for Beauty, Clothing and electronic products respectively. Gender had a minute effect on purchasing decisions as both male and female customers purchased more of clothing products.
+- Seasonal Sales Patterns: Sales volumes peaked during festive or holiday seasons in the last quarter of the year, reflecting clear seasonal buying behavior.  
+- Top Product Categories: Electronic products consistently outperformed beauty and clothing products in terms of total sales.  
+- Spending Relationships: There was a noticeable relationship between customer age, spending levels, and product preferences.  Adults preferred to purchase clothing products, Seniors preferred electronics and the youth preferred spending on beauty products.
+- Purchasing behaviors: There was a consistent pattern of purchasing behavior among the customers as a majority of them preferred moderate purchases (2-3 items at most).
+- Distribution of product prices: In terms of cost, Electronics are the highest priced products, followed by clothing and beauty products.
 
 ##  Conclusion
 The analysis provided valuable insights into customer purchasing patterns and retail performance. Age emerged as a key factor influencing product preference, with **youth gravitating toward beauty products, adults favoring clothing, and seniors showing a stronger inclination for electronics**. While gender showed only a minimal impact on buying behavior, both male and female customers demonstrated a shared preference for clothing items.
+
 Sales activity peaked during **festive and holiday seasons, particularly in the final quarter of the year**, underscoring the importance of seasonal trends in retail planning. **Electronics stood out as the highest-earning category**, followed by clothing and beauty products, reflecting both price distribution and demand patterns.
+
 Most customers tended to make **moderate purchases (2–3 items per transaction)**, suggesting a balance between affordability and product need. Overall, the findings highlight how demographics, product pricing, and seasonality collectively shape purchasing behavior. These insights can guide the business in improving marketing precision, enhancing inventory control
 ,Optimizing pricing strategies, increasing profitability and sales predictability.
